@@ -1,4 +1,4 @@
-# BBEdit Codeless Language Module for Protocol Buffers
+## BBEdit Codeless Language Module for Protocol Buffers
 
 [Codeless language module](http://www.barebones.com/support/develop/clm.html)
 for [Protocol Buffers](https://developers.google.com/protocol-buffers/). Works
@@ -12,3 +12,7 @@ and place it in the `Language Modules` subdirectory:
 `~/Dropbox/Application Support/BBEdit/Language Modules` (Dropbox location)
 
 Replace `BBEdit` with `TextWrangler` as needed.
+
+### What the result looks like
+
+![image](https://f.cloud.github.com/assets/513813/656423/44e713f4-d52b-11e2-89f3-94efffeb31dd.png)
