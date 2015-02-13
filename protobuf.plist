@@ -49,6 +49,8 @@
             <string>rpc</string>
             <string>returns</string>
             <string>option</string>
+            <string>public</string>
+            <string>oneof</string>
 
             <!-- Force enum and tag numbers to be colored -->
             <string>0</string><string>1</string><string>2</string><string>3</string><string>4</string><string>5</string><string>6</string><string>7</string><string>8</string><string>9</string><string>10</string>
